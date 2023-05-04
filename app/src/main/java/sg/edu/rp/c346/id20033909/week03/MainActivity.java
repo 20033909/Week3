@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         tvDisplay = findViewById(R.id.textViewDisplay);
         btnDisplay = findViewById(R.id.buttonDisplay);
-        btnDisplay = findViewById(R.id.buttonDisplay);
+        etInput = findViewById(R.id.editTextInput);
 
     }
 }
